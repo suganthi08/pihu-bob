@@ -1,1 +1,2 @@
-# pihu-bob
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
